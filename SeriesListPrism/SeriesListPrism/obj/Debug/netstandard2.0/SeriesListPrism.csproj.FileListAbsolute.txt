@@ -1,0 +1,13 @@
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\bin\Debug\netstandard2.0\SeriesListPrism.deps.json
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\bin\Debug\netstandard2.0\SeriesListPrism.dll
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\bin\Debug\netstandard2.0\SeriesListPrism.pdb
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.csprojAssemblyReference.cache
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.csproj.CoreCompileInputs.cache
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.AssemblyInfoInputs.cache
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.AssemblyInfo.cs
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.dll
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\SeriesListPrism.pdb
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\DEVISS\WEB\XAMARIN FORM\SeriesListPrism\SeriesListPrism\SeriesListPrism\obj\Debug\netstandard2.0\XamlC.stamp
